@@ -9,6 +9,6 @@ public class Calculadora
 	public int somar(int x int y)
 	{
 		var a = 0;
-		return x + y;
+		return x;
 	}
 }
