@@ -10,4 +10,9 @@ public class Calculadora
 	{
 		return x + y;
 	}
+
+    public int subtrair(int x int y)
+    {
+        return x - y;
+    }
 }
